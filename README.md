@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harshika-Anand
 - 👀 I’m interested in all things computers
-- 🌱 I’m currently learning different programming languages and app development
+- 🌱 I’m currently learning different programming languages and web development
 - 📫 How to reach me: Email me at harshika.anand@gmail.com
 
 <!---
